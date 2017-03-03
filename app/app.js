@@ -110,8 +110,6 @@ controller('MainController', function($scope, $http, $timeout, $interval) {
                     elemBar.css('background-color', '#4CAF50');
                 }
 
-                //console.log('Charts comboList Array ' + angular.toJson(scope.comboList));
-                //console.log('scope.limit: ' + scope.limit);
 
             }
 
